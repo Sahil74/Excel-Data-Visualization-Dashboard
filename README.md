@@ -6,6 +6,12 @@
 
 
 
+
+
+
+
+
+
 # Bike Buyer Insights
 
 ![Bike Sales Dashboard](./Bike.png)
