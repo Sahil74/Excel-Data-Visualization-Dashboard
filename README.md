@@ -2,15 +2,8 @@
 
 ![Coffee Dashboard](./COFEE.png)
 
-
-
-
-
-
-
-
-
-
+<br><br>
+<br><br>
 
 # Bike Buyer Insights
 
