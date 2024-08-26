@@ -1,4 +1,4 @@
-# Coffee-Sales-Analysis
+# Coffee Sales Analysis
 <br><br>
 ![Coffee Dashboard](./COFEE.png)
 
